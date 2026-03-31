@@ -46,38 +46,46 @@ To identify possible user paths and improve usability of the system
 
 Ideas:
 
-One-tap quick booking
-AI symptom → doctor suggestion
-Voice-based booking
-Calendar view for doctor availability
-Emergency fast booking button
-Repeat appointment shortcut
-Wait time prediction
-Family member booking
+- One-tap quick booking
+
+- AI symptom → doctor suggestion
+
+- Voice-based booking
+
+- Calendar view for doctor availability
+ 
+- Emergency fast booking button
+
+- Repeat appointment shortcut
+
+- Wait time prediction
+
+- Family member booking
 
 ### 2. User Stories
 
 As a working professional, I want to book appointments quickly, so that I save time.
+
 As a parent, I want to book for my child, so that I can manage family healthcare.
+
 As a first-time user, I want help choosing a doctor, so that I make the right decision.
+
 As a patient with urgent symptoms, I want fast booking, so that I get immediate care.
+
 As a returning user, I want to rebook easily, so that I avoid repeating steps.
 
 ### 3. Scenario
 
-Ravi (35, working professional) needs to book an appointment for his sick child
-He is at work, feeling stressed and in a hurry
-Opens the app and selects his child’s profile
-App suggests nearby pediatricians
-Chooses a time slot and confirms booking
-Feels relieved after quick confirmation
+Ravi (35, working professional) needs to book an appointment for his sick child. He is at work, feeling stressed and in a hurry. Opens the app and selects his child’s profile. App suggests nearby pediatricians. Chooses a time slot and confirms booking. Feels relieved after quick confirmation
 
 ### 4. Task Flow (Appointment Booking)
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5eacf6bf-5544-4649-b179-fd63db8115fe" />
 
 ### 5. Information Architecture (IA)
 
-Categories:
+#### Categories:
+
 Appointments
 Book appointment
 Upcoming
