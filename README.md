@@ -86,7 +86,15 @@ Ravi (35, working professional) needs to book an appointment for his sick child.
 
 #### Categories:
 
-Appointments, Book appointment, Upcoming, Past, Doctors, Search, Specializations, Reviews, Health Records, Reports, Prescriptions, History, Payments, Billing, Insurance, Profile, Personal info, Family members
+- Appointments: Book appointment, Upcoming, Past
+
+- Doctors: Search, Specializations, Reviews
+
+- Health Records: Reports, Prescriptions, History
+
+- Payments: Billing, Insurance
+
+- Profile: Personal info, Family members
 
 ## Result
 
