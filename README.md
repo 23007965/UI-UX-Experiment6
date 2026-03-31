@@ -86,21 +86,8 @@ Ravi (35, working professional) needs to book an appointment for his sick child.
 
 #### Categories:
 
-Appointments
-Book appointment
-Upcoming
-Past
-Doctors
-Search
-Specializations
-Reviews
-Health Records
-Reports
-Prescriptions
-History
-Payments
-Billing
-Insurance
-Profile
-Personal info
-Family members
+Appointments, Book appointment, Upcoming, Past, Doctors, Search, Specializations, Reviews, Health Records, Reports, Prescriptions, History, Payments, Billing, Insurance, Profile, Personal info, Family members
+
+## Result
+
+Designed a user-friendly hospital appointment booking system by applying ideation, user stories, scenario creation, task flow, and information architecture.
