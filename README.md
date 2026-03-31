@@ -1,5 +1,9 @@
 # UI-UX-Experiment6
 
+```
+Name : P PARTHIBAN
+REG NO. : 212223230145
+```
 ## Aim 
 
 To analyze and represent the user journey for completing a task (booking a doctor appointment) using a flow diagram
@@ -83,8 +87,6 @@ Ravi (35, working professional) needs to book an appointment for his sick child.
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5eacf6bf-5544-4649-b179-fd63db8115fe" />
 
 ### 5. Information Architecture (IA)
-
-#### Categories:
 
 - Appointments: Book appointment, Upcoming, Past
 
